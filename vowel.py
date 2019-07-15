@@ -5,5 +5,5 @@ vowels=["a","e","i","o","u"]
 if ch in vowels:
      print('vowels')
 else:
-     print('consonants')
+     print('consonant')
 
