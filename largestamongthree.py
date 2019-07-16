@@ -1,4 +1,4 @@
-
+# your code goes here
 a=int(input())
 b=int(input())
 c=int(input())
@@ -9,4 +9,3 @@ elif(b>a)and(b>c):
 else:
 	largest=c
 	print(largest)
-	
