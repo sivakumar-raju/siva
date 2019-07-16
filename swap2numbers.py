@@ -1,3 +1,3 @@
-a,b=map(int,input().split())
-a,b=b,a
-print(a,b)
+n,k=map(int,input().split())
+n,k=k,n
+print(n,k)
