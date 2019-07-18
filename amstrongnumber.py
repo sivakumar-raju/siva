@@ -1,0 +1,10 @@
+a=int(input())
+b=a
+sum=0
+while(b>0):
+   sum=sum+(b%10)**3
+   b=b//10
+if(sum==a):
+  print('yes')
+else:
+  print('no')
