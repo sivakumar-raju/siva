@@ -1,3 +1,3 @@
-a=int(input())
-b=map(int,input().split())
-print(max(b))
+k=int(input())
+z=map(int,input().split())
+print(max(z))
