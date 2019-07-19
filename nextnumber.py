@@ -1,2 +1,3 @@
 hi=int(input())
-print(hi+1)
+hello=hi+1
+print(hello)
