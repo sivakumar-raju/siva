@@ -1,5 +1,5 @@
-a,b=input().split()
-if(len(a)>len(b)):
-  print(a)
+h,i=input().split()
+if(len(h)>len(i)):
+  print(h)
 else:
-  print(b)
+  print(i)
