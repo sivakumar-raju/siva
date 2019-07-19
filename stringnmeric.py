@@ -1,6 +1,6 @@
 a=input()
 hi=a.lower()
 if(hi>='a' and hi<='z'):
-    print('no')
+    print('No')
 else:
     print('yes')
