@@ -1,4 +1,4 @@
-phone=input('>')
+phone=input()
 dictionary={
     '1' : 'One',
     '2' :'Two',
